@@ -1,0 +1,25 @@
+{
+  "name": "parcel-vue",
+  "version": "1.0.0",
+  "description": "零配置VUE开发模板，基于Parcel全新构建",
+  "author": "cheneyweb <457299596@qq.com>",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url /"
+  },
+  "dependencies": {
+    "vue-router": "^3.0.1",
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "less": "^2.7.3",
+    "parcel-bundler": "^1.4.1",
+    "parcel-plugin-vue": "^1.5.0",
+    "vue": "^2.5.13",
+    "iview": "^2.8.0"
+  }
+}
