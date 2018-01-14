@@ -1,7 +1,7 @@
 # parcel-vue
 零配置VUE开发模板，基于Parcel全新构建
 
-[传送门：XServer官网文档](http://www.xserver.top)
+[传送门：Parcel-VUE官网文档](http://parcel.xserver.top)
 
 > 使用说明
 ```bash
