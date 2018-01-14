@@ -13,7 +13,7 @@ $ x-cli parcel-vue myproject
 $ npm run dev
 ```
 
-> 正式部署
+> 正式构建
 ```bash
 $ npm run build
 ```
@@ -42,6 +42,6 @@ $ npm run build
 >
 	作者:cheneyxu
 	邮箱:457299596@qq.com
-	QQ:457299596
-    官网:http://www.xserver.top
+	QQ:457299596    
+[XServer官网](http://www.xserver.top)
 
