@@ -1,6 +1,8 @@
 # parcel-vue
 零配置VUE开发模板，基于Parcel全新构建
 
+[传送门：XServer官网文档](http://www.xserver.top)
+
 > 使用说明
 ```bash
 $ npm install xserver-cli -g
@@ -42,6 +44,4 @@ $ npm run build
 >
 	作者:cheneyxu
 	邮箱:457299596@qq.com
-	QQ:457299596    
-[XServer官网](http://www.xserver.top)
-
+	QQ:457299596
