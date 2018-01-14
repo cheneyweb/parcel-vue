@@ -3,9 +3,9 @@
 
 > 使用说明
 ```bash
-$ git clone https://github.com/cheneyweb/parcel-vue.git
-$ cd parce-vue
-$ npm install
+$ npm install xserver-cli -g
+$ x-cli parcel-vue myproject
+$ cd myproject && npm run dev
 ```
 
 > 开发调试
