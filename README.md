@@ -27,7 +27,6 @@ $ npm run build
 ├── index.html          首页文件
 ├── node_modules
 ├── package.json
-├── postcss.config.js   CSS配置
 ├── src                 开发源码
 │   ├── App.vue
 │   ├── assets
@@ -43,6 +42,7 @@ $ npm run build
 更新日志
 >
 	2018.01.28:更新iview至2.9.0版本
+	2018.03.31:更新pacel至1.7.0版本，原生支持VUE构建，进一步精简配置，完全零配置
 
 帮助联系
 >
