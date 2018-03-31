@@ -2,7 +2,7 @@
     <div class="index">
         <Icon type="ios-bolt-outline" size="150"></Icon>
         <!-- <img src="../assets/logo.png"> -->
-        <h1>Parcel-VUE</h1>
+        <h1>Parcel-VUE（parcel-bundler1.7.0版本开始支持VUE原生构建!）</h1>
         <br/>
         <h2>前言：伴随着webpack越发复杂臃肿，前端<b>零配置</b>的需求越来越高，parcel为前端构建带来了革命性的变化</h2>
         <br/>
