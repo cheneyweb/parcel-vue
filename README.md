@@ -4,6 +4,11 @@
 [传送门：Parcel-VUE官网文档](http://parcel.xserver.top)
 
 > 使用说明
+
+```bash
+请使用Node版本 >= 9.10
+```
+
 ```bash
 $ npm install xserver-cli -g
 
