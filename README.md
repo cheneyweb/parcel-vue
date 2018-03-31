@@ -23,7 +23,6 @@ $ npm run build
 >目录结构
 ```js
 ├── dist                构建结果
-│   └── index.html
 ├── index.html          首页文件
 ├── node_modules
 ├── package.json
