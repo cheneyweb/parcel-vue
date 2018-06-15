@@ -32,11 +32,11 @@ $ npm run build
 ├── node_modules
 ├── package.json
 ├── src                 开发源码
-│   ├── App.vue
-│   ├── assets
-│   ├── components
-│   ├── main.js
-│   └── router
+│   ├── App.vue			单页组件入口
+│   ├── assets			需要编译构建的静态资源
+│   ├── components		组件集合
+│   ├── main.js			入口JS
+│   └── router			路由控制
 └── static              静态文件
     ├── css
     ├── img
@@ -47,6 +47,7 @@ $ npm run build
 >
 	2018.01.28:更新iview至2.9.0版本
 	2018.03.31:更新pacel至1.7.0版本，原生支持VUE构建，进一步精简配置，完全零配置
+	2018.06.15:更新pacel至1.9.0版本，大量BUG修正和新特性加入，详情查看parcel官方版本日志，同时更新iview至2.14.2版本
 
 帮助联系
 >

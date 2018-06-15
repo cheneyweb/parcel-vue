@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url /"
+    "build": "parcel build index.html --public-url / --no-source-maps"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -15,9 +15,9 @@
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^1.0.0",
-    "iview": "^2.11.0",
-    "parcel-bundler": "^1.7.0",
+    "@vue/component-compiler-utils": "^2.0.0",
+    "iview": "^2.14.2",
+    "parcel-bundler": "^1.9.0",
     "vue": "^2.5.16",
     "vue-template-compiler": "^2.5.16"
   }
