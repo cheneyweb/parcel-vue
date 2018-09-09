@@ -50,15 +50,7 @@ $ npm run build
 	2018.06.15:更新pacel至1.9.0版本，大量BUG修正和新特性加入，详情查看parcel官方版本日志，同时更新iview至2.14.2版本
 	2018.06.25:更新pacel至1.9.3版本，在CentOS 7中仍旧存在构建问题
 	2018.07.16:更新pacel至1.9.7版本，在CentOS 7中仍旧存在构建问题
-
-已知问题
->
-	构建环境，nodejs 10.4.1
-	在MacOS 10.13.5中构建，正常
-	测试在CentOS 7中构建，会出现/usr/local/node/parcel-vue/src/router/index.js: Cannot read property 'process' of undefined的错误
-	两个操作系统环境的node版本一致，唯一区别是NODE_ENV的设置不同，但不确定是否由该原因引起
-	该问题需要进一步跟进parcel官方issue，暂时的解决方案可以退回使用parcel 1.7.0版本
-	相关问题issue https://github.com/parcel-bundler/parcel/issues/1548
+	2018.09.09:更新iview至3.1.0版本，更新vue至2.5.17，已经解决在CentOS中的构建问题
 	
 帮助联系
 >
