@@ -4,11 +4,11 @@ import router from './router'
 // import iView from 'iview'
 import 'iview/dist/styles/iview.css'
 
-// import { Row, Col, Icon, Card } from 'iview'
-// Vue.component('Row', Row)
-// Vue.component('Col', Col)
-// Vue.component('Icon', Icon)
-// Vue.component('Card', Card)
+import { Row, Col, Icon, Card } from 'iview'
+Vue.component('Row', Row)
+Vue.component('Col', Col)
+Vue.component('Icon', Icon)
+Vue.component('Card', Card)
 
 const isDebug_mode = process.env.NODE_ENV !== 'production'
 Vue.config.debug = isDebug_mode
