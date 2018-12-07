@@ -1,5 +1,5 @@
 # parcel-vue
-[![Build Status](https://travis-ci.com/cheneyweb/pwa-vue.svg?branch=master)](https://travis-ci.com/cheneyweb/pwa-vue)
+[![Build Status](https://travis-ci.com/cheneyweb/parcel-vue.svg?branch=master)](https://travis-ci.com/cheneyweb/parcel-vue)
 
 零配置VUE开发模板，基于Parcel全新构建
 
