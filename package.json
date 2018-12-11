@@ -18,7 +18,7 @@
     "@vue/component-compiler-utils": "^2.3.0",
     "iview": "^3.1.5",
     "parcel-bundler": "^1.10.3",
-    "vue": "^2.5.17",
-    "vue-template-compiler": "^2.5.17"
+    "vue": "^2.5.20",
+    "vue-template-compiler": "^2.5.20"
   }
 }
